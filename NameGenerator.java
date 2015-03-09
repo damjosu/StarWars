@@ -11,13 +11,13 @@ public class NameGenerator
     private String segundoApellido;
     private String ciudad;
     private static final int LETRAS_PRIMER_APELLIDO_INICIAL = 0;
-    private static final int LETRAS_PRIMER_APELLIDO_FINAL = 2;
+    private static final int LETRAS_PRIMER_APELLIDO_FINAL = 3;
     private static final int LETRAS_NOMBRE_INICIAL = 0;
-    private static final int LETRAS_NOMBRE_FINAL = 2;
+    private static final int LETRAS_NOMBRE_FINAL = 3;
     private static final int LETRAS_SEGUNDO_APELLIDO_INICIAL = 0;
-    private static final int LETRAS_SEGUNDO_APELLIDO_FINAL = 1;
+    private static final int LETRAS_SEGUNDO_APELLIDO_FINAL = 2;
     private static final int LETRAS_CIUDAD_INICIAL = 0;
-    private static final int LETRAS_CIUDAD = 2;
+    private static final int LETRAS_CIUDAD = 3;
     
 
     /**
