@@ -3,5 +3,6 @@ comment0.params=nombre\ primerApellido\ segundoApellido\ ciudad
 comment0.target=NameGenerator(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
 comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ NameGenerator\r\n
 comment1.params=
-comment1.target=java.lang.String\ generateStarWarsName()
+comment1.target=void\ generateStarWarsName()
+comment1.text=\r\n\ Genera\ tu\ nombre\ en\ el\ universo\ de\ Star\ Wars\ dandole\ tu\ nombre,\ apellido,\ segundo\ apellido\ y\ ciudad.\r\n
 numComments=2
